@@ -1,3 +1,4 @@
+# (c) 2021 Itai Shek
 from math import sqrt
 from kivy.graphics import Color, Line
 from kivy.uix.button import Button

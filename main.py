@@ -1,3 +1,4 @@
+# (c) 2021 Itai Shek
 from kivy.config import Config
 
 Config.set('graphics', 'width', '500')

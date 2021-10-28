@@ -1,3 +1,4 @@
+# (c) 2021 Itai Shek
 from math import sqrt
 
 

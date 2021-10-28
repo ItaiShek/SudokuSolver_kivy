@@ -1,3 +1,4 @@
+# (c) 2021 Itai Shek
 def on_press_square(self, btn):
     if self.current_square:
         self.current_square.background_color = self.square_color

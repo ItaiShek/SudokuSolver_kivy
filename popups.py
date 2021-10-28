@@ -1,3 +1,4 @@
+# (c) 2021 Itai Shek
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
 from kivy.uix.label import Label
